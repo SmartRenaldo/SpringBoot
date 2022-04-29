@@ -12,5 +12,6 @@
     <file url="file://$PROJECT_DIR$/springboot_03_yaml/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_03_yaml/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_04_integrate_junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_05_integrate_mybatis/src/main/java" charset="UTF-8" />
   </component>
 </project>

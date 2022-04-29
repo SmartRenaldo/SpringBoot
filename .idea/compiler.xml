@@ -13,6 +13,7 @@
         <module name="springboot_03_yaml" />
         <module name="springboot_01_01_quickstart" />
         <module name="springboot_04_integrate_junit" />
+        <module name="springboot_05_integrate_mybatis" />
         <module name="springboot_02_base_configuration" />
       </profile>
     </annotationProcessing>
@@ -26,6 +27,7 @@
       <module name="springboot_02_base_configuration" target="1.8" />
       <module name="springboot_03_yaml" target="1.8" />
       <module name="springboot_04_integrate_junit" target="1.8" />
+      <module name="springboot_05_integrate_mybatis" target="1.8" />
       <module name="springboot_0x_template_pojo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -39,6 +41,7 @@
       <module name="springboot_02_base_configuration" options="-parameters" />
       <module name="springboot_03_yaml" options="-parameters" />
       <module name="springboot_04_integrate_junit" options="-parameters" />
+      <module name="springboot_05_integrate_mybatis" options="-parameters" />
       <module name="springboot_0x_template_pojo" options="-parameters" />
     </option>
   </component>
