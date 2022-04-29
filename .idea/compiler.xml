@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_01_03_quickstart" />
         <module name="springboot_06_integrate_mybatis_plus" />
+        <module name="integrate_druid" />
         <module name="springboot_01_02_quickstart" />
         <module name="springboot_01_04_quickstart" />
         <module name="springboot_01_05_restful" />
@@ -16,9 +17,11 @@
         <module name="springboot_04_integrate_junit" />
         <module name="springboot_05_integrate_mybatis" />
         <module name="springboot_02_base_configuration" />
+        <module name="springboot_07_integrate_druid" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="integrate_druid" target="1.8" />
       <module name="springboot_01_01_quickstart" target="1.8" />
       <module name="springboot_01_02_quickstart" target="1.8" />
       <module name="springboot_01_02_quickstart (1)" target="1.5" />
@@ -30,11 +33,13 @@
       <module name="springboot_04_integrate_junit" target="1.8" />
       <module name="springboot_05_integrate_mybatis" target="1.8" />
       <module name="springboot_06_integrate_mybatis_plus" target="1.8" />
+      <module name="springboot_07_integrate_druid" target="1.8" />
       <module name="springboot_0x_template_pojo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="integrate_druid" options="-parameters" />
       <module name="springboot_01_01_quickstart" options="-parameters" />
       <module name="springboot_01_02_quickstart" options="-parameters" />
       <module name="springboot_01_03_quickstart" options="-parameters" />
@@ -45,6 +50,7 @@
       <module name="springboot_04_integrate_junit" options="-parameters" />
       <module name="springboot_05_integrate_mybatis" options="-parameters" />
       <module name="springboot_06_integrate_mybatis_plus" options="-parameters" />
+      <module name="springboot_07_integrate_druid" options="-parameters" />
       <module name="springboot_0x_template_pojo" options="-parameters" />
     </option>
   </component>

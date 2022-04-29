@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springboot_04_integrate_junit/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_05_integrate_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_06_integrate_mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_07_integrate_druid/pom.xml" />
       </list>
     </option>
   </component>
