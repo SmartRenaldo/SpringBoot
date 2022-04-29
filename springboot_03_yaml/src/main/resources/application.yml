@@ -1,0 +1,59 @@
+country: australia
+state: south australia
+suburb: Adelaide, 5000
+
+port: 8080
+birthday: 1999-09-09
+
+username:
+  name: postman
+  age: 18
+
+user2:
+  name: jackson
+  age: 19
+
+a:
+  b:
+    c:
+      d:
+        abc
+
+hobbies:
+  - game
+  - music
+  - cooking
+
+hobbies2: [ game,music ]
+
+users:
+  - name: george
+    age: 18
+  - name: nora
+    age: 29
+
+users2:
+  - name: george
+    age: 18
+  - name: nora
+    age: 29
+
+users3:
+  [{name:george,age:18},{name:nora,age:29}]
+
+baseDir: c:\windows
+
+tmpDir: ${baseDir}\tmp
+
+# quotes can turn \t into Tab
+tmpDir2: "${baseDir}\tmp"
+
+datasource:
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost/springboot_db
+  username: root
+  password: root
+
+server:
+  servlet:
+    context-path: /test
