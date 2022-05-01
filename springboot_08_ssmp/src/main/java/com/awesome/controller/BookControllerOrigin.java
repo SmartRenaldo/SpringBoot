@@ -1,4 +1,4 @@
-package com.awesome.comtroller;
+package com.awesome.controller;
 
 import com.awesome.domain.Book;
 import com.awesome.service.IBookService;

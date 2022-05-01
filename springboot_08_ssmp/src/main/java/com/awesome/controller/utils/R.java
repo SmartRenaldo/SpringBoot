@@ -1,4 +1,4 @@
-package com.awesome.comtroller.utils;
+package com.awesome.controller.utils;
 
 import lombok.Data;
 
@@ -6,6 +6,7 @@ import lombok.Data;
 public class R {
     private Boolean flag;
     private Object data;
+    private String message;
 
     public R() {
     }
@@ -17,5 +18,15 @@ public class R {
     public R(Boolean flag, Object data) {
         this.flag = flag;
         this.data = data;
+    }
+
+    public R(Boolean flag, String message) {
+        this.flag = flag;
+        this.message = message;
+    }
+
+    public R(String message) {
+        this.flag = false;
+        this.message = message;
     }
 }

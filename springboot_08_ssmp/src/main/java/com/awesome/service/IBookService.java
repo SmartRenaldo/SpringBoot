@@ -10,4 +10,6 @@ public interface IBookService extends IService<Book> {
     boolean delete(Integer id);
 
     IPage<Book> getPage(int currentPage, int pageSize);
+
+    IPage<Book> getPage(int currentPage, int pageSize, Book book);
 }
