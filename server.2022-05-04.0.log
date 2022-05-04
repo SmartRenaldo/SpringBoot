@@ -1,0 +1,28 @@
+2022-05-04 22:57:36.630  INFO 5428 --- [main] com.awesome.Springboot11LogApplication   : Starting Springboot11LogApplication using Java 1.8.0_312 on LAPTOP-NN4BBO06 with PID 5428 (D:\IdeaProjects\SpringBootProj\springboot\springboot_11_log\target\classes started by Gavin in D:\IdeaProjects\SpringBootProj\springboot)
+2022-05-04 22:57:36.640  INFO 5428 --- [main] com.awesome.Springboot11LogApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-04 22:57:37.440  INFO 5428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-04 22:57:37.450  INFO 5428 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-04 22:57:37.450  INFO 5428 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-04 22:57:37.520  INFO 5428 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-04 22:57:37.520  INFO 5428 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 838 ms
+2022-05-04 22:57:37.870  INFO 5428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-04 22:57:37.885  INFO 5428 --- [main] com.awesome.Springboot11LogApplication   : Started Springboot11LogApplication in 1.824 seconds (JVM running for 3.004)
+2022-05-04 23:02:07.136  INFO 18704 --- [main] com.awesome.Springboot11LogApplication   : Starting Springboot11LogApplication using Java 1.8.0_312 on LAPTOP-NN4BBO06 with PID 18704 (D:\IdeaProjects\SpringBootProj\springboot\springboot_11_log\target\classes started by Gavin in D:\IdeaProjects\SpringBootProj\springboot)
+2022-05-04 23:02:07.136  INFO 18704 --- [main] com.awesome.Springboot11LogApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-04 23:02:08.356  INFO 18704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-04 23:02:08.366  INFO 18704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-04 23:02:08.366  INFO 18704 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-04 23:02:08.496  INFO 18704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-04 23:02:08.496  INFO 18704 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1290 ms
+2022-05-04 23:02:08.906  INFO 18704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-04 23:02:08.916  INFO 18704 --- [main] com.awesome.Springboot11LogApplication   : Started Springboot11LogApplication in 2.982 seconds (JVM running for 5.039)
+2022-05-04 23:02:25.548  INFO 18704 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-04 23:02:25.548  INFO 18704 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-04 23:02:25.564  INFO 18704 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2022-05-04 23:02:25.579  WARN 18704 --- [http-nio-8080-exec-1] com.awesome.controller.BookController    : warn...
+2022-05-04 23:02:25.579 ERROR 18704 --- [http-nio-8080-exec-1] com.awesome.controller.BookController    : error...
+2022-05-04 23:02:26.635  WARN 18704 --- [http-nio-8080-exec-2] com.awesome.controller.BookController    : warn...
+2022-05-04 23:02:26.635 ERROR 18704 --- [http-nio-8080-exec-2] com.awesome.controller.BookController    : error...
+2022-05-04 23:02:27.649  WARN 18704 --- [http-nio-8080-exec-3] com.awesome.controller.BookController    : warn...
+2022-05-04 23:02:27.650 ERROR 18704 --- [http-nio-8080-exec-3] com.awesome.controller.BookController    : error...
+2022-05-04 23:02:28.294  WARN 18704 --- [http-nio-8080-exec-4] com.awesome.controller.BookController    : warn...

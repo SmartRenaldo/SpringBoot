@@ -1,0 +1,19 @@
+# debug: true
+logging:
+  group:
+    ebank: com.awesome.controller,com.awesome.service,com.awesome.mapper
+    iservice: com.aws
+  level:
+    root: info
+#    com.awesome.controller: debug
+    ebank: warn
+  pattern:
+#    console: "%d  - %m%n"
+    console: "%d %clr(%5p) --- [%16t] %clr(%-40.40c){cyan} : %m%n"
+  # output file
+  file:
+    name: server.log
+  logback:
+    rollingpolicy:
+      max-file-size: 4KB
+      file-name-pattern: server.%d{yyyy-MM-dd}.%i.log
