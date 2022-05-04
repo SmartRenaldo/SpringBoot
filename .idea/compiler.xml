@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_01_03_quickstart" />
         <module name="integrate_druid" />
+        <module name="springboot_09_config" />
         <module name="springboot_03_yaml" />
         <module name="springboot_08_ssmp" />
         <module name="springboot_05_integrate_mybatis" />
@@ -36,6 +37,7 @@
       <module name="springboot_06_integrate_mybatis_plus" target="1.8" />
       <module name="springboot_07_integrate_druid" target="1.8" />
       <module name="springboot_08_ssmp" target="1.8" />
+      <module name="springboot_09_config" target="1.8" />
       <module name="springboot_0x_template_pojo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -54,6 +56,7 @@
       <module name="springboot_06_integrate_mybatis_plus" options="-parameters" />
       <module name="springboot_07_integrate_druid" options="-parameters" />
       <module name="springboot_08_ssmp" options="-parameters" />
+      <module name="springboot_09_config" options="-parameters" />
       <module name="springboot_0x_template_pojo" options="-parameters" />
     </option>
   </component>
