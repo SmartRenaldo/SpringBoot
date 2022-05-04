@@ -1,0 +1,5 @@
+# applied environment
+# public configuration
+spring:
+  profiles:
+    active: pro

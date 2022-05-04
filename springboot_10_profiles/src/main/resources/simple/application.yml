@@ -1,0 +1,29 @@
+# applied environment
+# public configuration
+spring:
+  profiles:
+    active: dev
+---
+# development environment
+server:
+  port: 80
+spring:
+  config:
+    activate:
+      on-profile: dev
+---
+# production environment
+server:
+  port: 81
+spring:
+  config:
+    activate:
+      on-profile: pro
+---
+# test environment
+server:
+  port: 82
+spring:
+  config:
+    activate:
+      on-profile: test
