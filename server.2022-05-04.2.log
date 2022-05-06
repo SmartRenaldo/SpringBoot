@@ -1,0 +1,39 @@
+2022-05-04 23:03:19.959  INFO 16180 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-05-04 23:03:19.996  WARN 16180 --- [http-nio-8080-exec-1] com.awesome.controller.BookController    : warn...
+2022-05-04 23:03:19.997 ERROR 16180 --- [http-nio-8080-exec-1] com.awesome.controller.BookController    : error...
+2022-05-04 23:03:20.630  WARN 16180 --- [http-nio-8080-exec-2] com.awesome.controller.BookController    : warn...
+2022-05-04 23:03:20.630 ERROR 16180 --- [http-nio-8080-exec-2] com.awesome.controller.BookController    : error...
+2022-05-04 23:03:21.327  WARN 16180 --- [http-nio-8080-exec-3] com.awesome.controller.BookController    : warn...
+2022-05-04 23:03:21.328 ERROR 16180 --- [http-nio-8080-exec-3] com.awesome.controller.BookController    : error...
+2022-05-04 23:03:21.948  WARN 16180 --- [http-nio-8080-exec-4] com.awesome.controller.BookController    : warn...
+2022-05-04 23:03:21.948 ERROR 16180 --- [http-nio-8080-exec-4] com.awesome.controller.BookController    : error...
+2022-05-04 23:03:22.527  WARN 16180 --- [http-nio-8080-exec-5] com.awesome.controller.BookController    : warn...
+2022-05-04 23:03:22.527 ERROR 16180 --- [http-nio-8080-exec-5] com.awesome.controller.BookController    : error...
+2022-05-04 23:24:19.313  INFO 11584 --- [main] com.awesome.Springboot11LogApplication   : Starting Springboot11LogApplication using Java 1.8.0_312 on LAPTOP-NN4BBO06 with PID 11584 (D:\IdeaProjects\SpringBootProj\springboot\springboot_11_log\target\classes started by Gavin in D:\IdeaProjects\SpringBootProj\springboot)
+2022-05-04 23:24:19.317  INFO 11584 --- [main] com.awesome.Springboot11LogApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-04 23:24:20.647  INFO 11584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-04 23:24:20.657  INFO 11584 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-04 23:24:20.657  INFO 11584 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-04 23:24:20.777  INFO 11584 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-04 23:24:20.777  INFO 11584 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1380 ms
+2022-05-04 23:24:21.198  INFO 11584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-04 23:24:21.213  INFO 11584 --- [main] com.awesome.Springboot11LogApplication   : Started Springboot11LogApplication in 2.853 seconds (JVM running for 4.949)
+2022-05-04 23:28:19.164  INFO 17960 --- [main] com.awesome.Springboot11LogApplication   : Starting Springboot11LogApplication using Java 1.8.0_312 on LAPTOP-NN4BBO06 with PID 17960 (D:\IdeaProjects\SpringBootProj\springboot\springboot_11_log\target\classes started by Gavin in D:\IdeaProjects\SpringBootProj\springboot)
+2022-05-04 23:28:19.168  INFO 17960 --- [main] com.awesome.Springboot11LogApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-04 23:28:20.003  INFO 17960 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-04 23:28:20.012  INFO 17960 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-04 23:28:20.012  INFO 17960 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-04 23:28:20.102  INFO 17960 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-04 23:28:20.103  INFO 17960 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 884 ms
+2022-05-04 23:28:20.350  INFO 17960 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-04 23:28:20.357  INFO 17960 --- [main] com.awesome.Springboot11LogApplication   : Started Springboot11LogApplication in 1.713 seconds (JVM running for 2.907)
+2022-05-04 23:29:59.758  INFO 17960 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-04 23:29:59.763  INFO 17960 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-04 23:29:59.764  INFO 17960 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-05-04 23:30:16.550  INFO 8492 --- [main] com.awesome.Springboot11LogApplication   : Starting Springboot11LogApplication using Java 1.8.0_312 on LAPTOP-NN4BBO06 with PID 8492 (D:\IdeaProjects\SpringBootProj\springboot\springboot_11_log\target\classes started by Gavin in D:\IdeaProjects\SpringBootProj\springboot)
+2022-05-04 23:30:16.554  INFO 8492 --- [main] com.awesome.Springboot11LogApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-04 23:30:18.266  INFO 8492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-04 23:30:18.287  INFO 8492 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-04 23:30:18.291  INFO 8492 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-04 23:30:18.398  INFO 8492 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-04 23:30:18.398  INFO 8492 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1798 ms
