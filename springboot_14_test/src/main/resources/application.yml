@@ -1,0 +1,23 @@
+test:
+  prop: tValue
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/springboot
+      username: root
+      password: 123123
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+testcase:
+  read:
+    id: ${random.int}
+    id2: ${random.int(100)}
+    id3: ${random.int(10,100)}
+    name: ${random.value}
+    type: ${random.uuid}
+    description: ${random.long}
