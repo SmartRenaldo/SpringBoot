@@ -1,4 +1,4 @@
-country: Australia
+country: australia
 state: south australia
 suburb: Adelaide, 5000
 
@@ -18,7 +18,7 @@ a:
     c:
       d:
         abc
-        
+
 hobbies:
   - game
   - music
