@@ -1,0 +1,5 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: hidden@hidden.com
+    password: hidden
