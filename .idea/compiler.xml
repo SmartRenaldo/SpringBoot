@@ -13,6 +13,7 @@
         <module name="springboot_18_es" />
         <module name="springboot_06_integrate_mybatis_plus" />
         <module name="springboot_19_cache" />
+        <module name="springboot_24_mq" />
         <module name="springboot_01_04_quickstart" />
         <module name="springboot_10_profiles" />
         <module name="springboot_01_01_quickstart" />
@@ -67,6 +68,7 @@
       <module name="springboot_21_j2cache" target="1.8" />
       <module name="springboot_22_task" target="1.8" />
       <module name="springboot_23_mail" target="1.8" />
+      <module name="springboot_24_mq" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -100,6 +102,7 @@
       <module name="springboot_21_j2cache" options="-parameters" />
       <module name="springboot_22_task" options="-parameters" />
       <module name="springboot_23_mail" options="-parameters" />
+      <module name="springboot_24_mq" options="-parameters" />
     </option>
   </component>
 </project>
