@@ -34,6 +34,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_25_ActiveMQ/springboot_25_ActiveMQ.iml" filepath="$PROJECT_DIR$/springboot_25_ActiveMQ/springboot_25_ActiveMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_26_RabbitMQ/springboot_26_RabbitMQ.iml" filepath="$PROJECT_DIR$/springboot_26_RabbitMQ/springboot_26_RabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_27_kafka/springboot_27_kafka.iml" filepath="$PROJECT_DIR$/springboot_27_kafka/springboot_27_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_28_admin_server/springboot_28_admin_server.iml" filepath="$PROJECT_DIR$/springboot_28_admin_server/springboot_28_admin_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_29_admin_client/springboot_29_admin_client.iml" filepath="$PROJECT_DIR$/springboot_29_admin_client/springboot_29_admin_client.iml" />
     </modules>
   </component>
 </project>

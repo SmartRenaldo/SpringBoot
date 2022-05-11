@@ -34,6 +34,8 @@
         <option value="$PROJECT_DIR$/springboot_25_ActiveMQ/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_26_RabbitMQ/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_27_kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_28_admin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_29_admin_client/pom.xml" />
       </list>
     </option>
   </component>
