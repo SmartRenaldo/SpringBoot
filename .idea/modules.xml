@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_22_task/springboot_22_task.iml" filepath="$PROJECT_DIR$/springboot_22_task/springboot_22_task.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_23_mail/springboot_23_mail.iml" filepath="$PROJECT_DIR$/springboot_23_mail/springboot_23_mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_24_mq/springboot_24_mq.iml" filepath="$PROJECT_DIR$/springboot_24_mq/springboot_24_mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_25_ActiveMQ/springboot_25_ActiveMQ.iml" filepath="$PROJECT_DIR$/springboot_25_ActiveMQ/springboot_25_ActiveMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_26_RabbitMQ/springboot_26_RabbitMQ.iml" filepath="$PROJECT_DIR$/springboot_26_RabbitMQ/springboot_26_RabbitMQ.iml" />
     </modules>
   </component>
 </project>
